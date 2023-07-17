@@ -18,12 +18,12 @@
 <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="linux" width="50" height="50" />
 <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="docker" width="50" height="50" />
 <img src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" alt="nginx" width="50" height="50" />
+<img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgresql" width="50" height="50" />
 </p>
 <br />
 
 #### 🧑🏻‍💻 In the learning process:
 <p align="left">
-<img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgresql" width="50" height="50" />
 </p>
 <br />
 
