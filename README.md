@@ -26,7 +26,7 @@
 <p align="left">
 </p>
 <br />
-https://www.codewars.com/users/dramshtadiy/badges/micro
+
 🔗 &nbsp;**You can connect with me**
 <p align="left">
 <a href="https://t.me/RknDaniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="DaniilRyaykkenen" height="30" width="40" /></a>
