@@ -24,6 +24,7 @@
 
 #### 🧑🏻‍💻 In the learning process:
 <p align="left">
+<a href="https://www.codewars.com/users/dramshtadiy/"><img src="https://www.codewars.com/users/dramshtadiy/badges/large" alt="CodeWars badge"></a></br>
 </p>
 <br />
 
