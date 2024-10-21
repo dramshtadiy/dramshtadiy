@@ -1,4 +1,4 @@
-#### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I am a beginner Python developer.
+#### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I am a Python developer.
 - I develop and learn new technologies every day 💻
 - I lead an active lifestyle 🥋
 - I like to read books 📖
